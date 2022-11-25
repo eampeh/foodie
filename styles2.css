@@ -1,0 +1,67 @@
+body{
+  background-color:#FFF3F0 ;
+  font-family: serif;
+}
+
+
+h1{
+  color: #FF69B4;
+  font-family:"Lucida Handwriting" ,cursive;
+  font-style: 20px;
+}
+h2{
+  text-align: center;
+}
+h3{
+  text-align: center;
+  text-decoration: underline;
+}
+
+h4{
+  text-align: center;
+  font-family: "Lucida Handwriting" ,cursive;
+  color: #FF69B4;
+  font-size: 20px;
+
+}
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+}
+
+
+li a {
+color: grey;
+text-align:center;
+padding: 5px;
+margin: 3px;
+text-decoration: none;
+}
+li{
+  display:inline-block;
+}
+
+a:link {
+  text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  color: #FFA686
+  text-decoration: underline;
+}
+img{
+  padding:10px;
+  width: 250px;
+  height: 200px;
+}
+.food{
+  text-align: center;
+  font-size: 16px;
+  background-size: contain;
+  background-image:url(https://previews.123rf.com/images/ateli/ateli1211/ateli121100014/16063745-inscription-food-watercolor-illustration.jpg)
+}
